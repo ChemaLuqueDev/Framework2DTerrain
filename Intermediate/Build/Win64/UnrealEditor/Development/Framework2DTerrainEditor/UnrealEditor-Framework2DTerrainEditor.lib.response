@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Framework2DTerrainEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Github\Pixel2DFramework\Intermediate\Build\Win64\Pixel2DGameTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"E:\Github\Pixel2DFramework\Plugins\Framework2DTerrain\Intermediate\Build\Win64\UnrealEditor\Development\Framework2DTerrainEditor\Module.Framework2DTerrainEditor.cpp.obj"
+"E:\Github\Pixel2DFramework\Plugins\Framework2DTerrain\Intermediate\Build\Win64\UnrealEditor\Development\Framework2DTerrainEditor\Framework2DTilePaintMode.cpp.obj"
+"E:\Github\Pixel2DFramework\Plugins\Framework2DTerrain\Intermediate\Build\Win64\UnrealEditor\Development\Framework2DTerrainEditor\SFramework2DProcGenPanel.cpp.obj"
+"E:\Github\Pixel2DFramework\Plugins\Framework2DTerrain\Intermediate\Build\Win64\UnrealEditor\Development\Framework2DTerrainEditor\SFramework2DProcGenScenery.cpp.obj"
+"E:\Github\Pixel2DFramework\Plugins\Framework2DTerrain\Intermediate\Build\Win64\UnrealEditor\Development\Framework2DTerrainEditor\SFramework2DTilePalette.cpp.obj"
+"E:\Github\Pixel2DFramework\Plugins\Framework2DTerrain\Intermediate\Build\Win64\UnrealEditor\Development\Framework2DTerrainEditor\Default.rc2.res"
+/OUT:"E:\Github\Pixel2DFramework\Plugins\Framework2DTerrain\Intermediate\Build\Win64\UnrealEditor\Development\Framework2DTerrainEditor\UnrealEditor-Framework2DTerrainEditor.lib"

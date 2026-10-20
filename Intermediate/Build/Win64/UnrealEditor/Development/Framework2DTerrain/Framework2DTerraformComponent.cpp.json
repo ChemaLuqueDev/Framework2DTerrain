@@ -1,0 +1,24 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\private\\framework2dterraformcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\github\\pixel2dframework\\intermediate\\build\\win64\\pixel2dgametemplateeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealeditor\\development\\framework2dterrain\\definitions.framework2dterrain.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dterraformcomponent.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dterraintypes.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealeditor\\inc\\framework2dterrain\\framework2dterraintypes.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealeditor\\inc\\framework2dterrain\\framework2dterraformcomponent.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dterrainworld.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dtileset.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dprocgentypes.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealeditor\\inc\\framework2dterrain\\framework2dprocgentypes.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealeditor\\inc\\framework2dterrain\\framework2dtileset.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealeditor\\inc\\framework2dterrain\\framework2dterrainworld.generated.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\source\\runtime\\engine\\public\\engineutils.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

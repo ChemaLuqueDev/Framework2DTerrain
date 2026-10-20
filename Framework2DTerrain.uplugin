@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.0",
+	"FriendlyName": "Framework2D Terrain",
+	"Description": "Tilemaps 2D que se rompen pixel a pixel (estilo KYORA): editor de tiles con paleta, rotura con dureza, recoger y colocar terreno, escombros y colision por trozos. C++ con API Blueprint.",
+	"Category": "2D",
+	"CreatedBy": "Chema Luque",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Framework2DTerrain",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "Framework2DTerrainEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ProceduralMeshComponent",
+			"Enabled": true
+		},
+		{
+			"Name": "Paper2D",
+			"Enabled": true
+		}
+	]
+}

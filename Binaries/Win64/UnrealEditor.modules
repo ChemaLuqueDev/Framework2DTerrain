@@ -1,0 +1,8 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"Framework2DTerrain": "UnrealEditor-Framework2DTerrain.dll",
+		"Framework2DTerrainEditor": "UnrealEditor-Framework2DTerrainEditor.dll"
+	}
+}

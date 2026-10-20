@@ -1,0 +1,42 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterraineditor\\private\\sframework2dprocgenpanel.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\github\\pixel2dframework\\intermediate\\build\\win64\\pixel2dgametemplateeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealeditor\\development\\framework2dterraineditor\\definitions.framework2dterraineditor.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterraineditor\\private\\sframework2dprocgenpanel.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dprocgentypes.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealeditor\\inc\\framework2dterrain\\framework2dprocgentypes.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterraineditor\\private\\framework2deditorstyle.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterraineditor\\private\\framework2dpalettewidgets.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterraineditor\\private\\framework2dtilepaintmode.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\source\\editor\\unrealed\\public\\edmode.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\source\\editor\\unrealed\\public\\editormoderegistry.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\source\\editor\\unrealed\\public\\tools\\uedmode.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uedmode.generated.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\source\\editor\\unrealed\\public\\tools\\legacyedmodewidgethelpers.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\source\\editor\\unrealed\\public\\tools\\legacyedmodeinterfaces.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\legacyedmodeinterfaces.generated.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\legacyedmodewidgethelpers.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dterraintypes.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealeditor\\inc\\framework2dterrain\\framework2dterraintypes.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dtileset.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealeditor\\inc\\framework2dterrain\\framework2dtileset.generated.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\source\\runtime\\slatecore\\public\\brushes\\slateroundedboxbrush.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\text\\sinlineeditabletextblock.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dprocgen.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealeditor\\inc\\framework2dterrain\\framework2dprocgen.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dtilemapasset.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealeditor\\inc\\framework2dterrain\\framework2dtilemapasset.generated.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\input\\sspinbox.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\layout\\sexpandablearea.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\layout\\sscrollbox.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\layout\\suniformgridpanel.h",
+            "e:\\unrealengine_versions\\ue_5.0\\engine\\source\\runtime\\slate\\public\\widgets\\layout\\swrapbox.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

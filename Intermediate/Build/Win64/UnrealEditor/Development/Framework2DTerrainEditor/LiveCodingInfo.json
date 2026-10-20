@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Framework2DTerrainEditor.cpp.obj": [
+			"Framework2DEditorStyle.cpp.obj",
+			"Framework2DTerrainEditorModule.cpp.obj",
+			"Framework2DTilePaintMode.cpp.obj",
+			"SFramework2DProcGenPanel.cpp.obj",
+			"SFramework2DProcGenScenery.cpp.obj",
+			"SFramework2DTilePalette.cpp.obj"
+		]
+	}
+}

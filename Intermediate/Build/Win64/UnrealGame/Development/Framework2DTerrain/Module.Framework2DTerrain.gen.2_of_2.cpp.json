@@ -1,0 +1,31 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\development\\framework2dterrain\\module.framework2dterrain.gen.2_of_2.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\github\\pixel2dframework\\intermediate\\build\\win64\\pixel2dgametemplate\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\development\\framework2dterrain\\definitions.framework2dterrain.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\inc\\framework2dterrain\\framework2dterrain.init.gen.cpp",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\inc\\framework2dterrain\\framework2dterraindeformercomponent.gen.cpp",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dterraindeformercomponent.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dterraintypes.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\inc\\framework2dterrain\\framework2dterraintypes.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\inc\\framework2dterrain\\framework2dterraindeformercomponent.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\inc\\framework2dterrain\\framework2dterraintypes.gen.cpp",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\inc\\framework2dterrain\\framework2dterrainworld.gen.cpp",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dterrainworld.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dtileset.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dprocgentypes.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\inc\\framework2dterrain\\framework2dprocgentypes.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\inc\\framework2dterrain\\framework2dtileset.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\inc\\framework2dterrain\\framework2dterrainworld.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\inc\\framework2dterrain\\framework2dtilemapasset.gen.cpp",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\source\\framework2dterrain\\public\\framework2dtilemapasset.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\inc\\framework2dterrain\\framework2dtilemapasset.generated.h",
+            "e:\\github\\pixel2dframework\\plugins\\framework2dterrain\\intermediate\\build\\win64\\unrealgame\\inc\\framework2dterrain\\framework2dtileset.gen.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

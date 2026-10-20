@@ -1,0 +1,35 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Framework2DTerrain.cpp.obj": [
+			"Framework2DBackdropComponent.cpp.obj",
+			"Framework2DCharacter.cpp.obj",
+			"Framework2DCollisionChunkComponent.cpp.obj",
+			"Framework2DDemoCharacter.cpp.obj",
+			"Framework2DTerrainModule.cpp.obj",
+			"Framework2DProcGen.cpp.obj",
+			"Framework2DTerraformComponent.cpp.obj",
+			"Framework2DTerrainDeformerComponent.cpp.obj",
+			"Framework2DTerrainWorld.cpp.obj",
+			"Framework2DTileMapAsset.cpp.obj",
+			"Framework2DTileSet.cpp.obj"
+		],
+		"Module.Framework2DTerrain.gen.1_of_2.cpp.obj": [
+			"Framework2DBackdropComponent.gen.cpp.obj",
+			"Framework2DCharacter.gen.cpp.obj",
+			"Framework2DCollisionChunkComponent.gen.cpp.obj",
+			"Framework2DDemoCharacter.gen.cpp.obj",
+			"Framework2DProcGen.gen.cpp.obj",
+			"Framework2DProcGenTypes.gen.cpp.obj",
+			"Framework2DTerraformComponent.gen.cpp.obj",
+			"Framework2DTerrain.init.gen.cpp.obj",
+			"Framework2DTerrainDeformerComponent.gen.cpp.obj"
+		],
+		"Module.Framework2DTerrain.gen.2_of_2.cpp.obj": [
+			"Framework2DTerrainTypes.gen.cpp.obj",
+			"Framework2DTerrainWorld.gen.cpp.obj",
+			"Framework2DTileMapAsset.gen.cpp.obj",
+			"Framework2DTileSet.gen.cpp.obj"
+		]
+	}
+}
